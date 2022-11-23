@@ -4,7 +4,7 @@
 </p>
 
 
-          Permission AutoScript                                   WEBSOCKET / SSH / SSL / XRAY
+          Permission AutoScript                   
 
 
 
